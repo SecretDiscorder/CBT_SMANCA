@@ -38,7 +38,7 @@ ExamBrowser siap digunakan.
 15. Safety And User Experience to user
 16. Free To User
 17. Add Offline Features HTML Web offline
-
+18. Disable Chrome And Google Voice
     Google Akan menandai aplikasi  dengan label keamanan / Virus dikarenakan tidak di publish di playstore. untuk itu nonaktifkan PlayProtect di playstore
     ![Screenshot_20230817-171211](https://github.com/SecretDiscorder/CBT_SMANCA/assets/139457966/d166d7eb-58f7-4a7a-979c-e711b9891a13)
     Semoga Hari Anda Menyenangkan
