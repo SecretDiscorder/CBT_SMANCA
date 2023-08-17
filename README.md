@@ -20,7 +20,11 @@ berikut caranya
 ![Screenshot_20230817-170127](https://github.com/SecretDiscorder/CBT_SMANCA/assets/139457966/99c83132-448d-435e-8c10-f4dde95422c8)
 ![Screenshot_20230817-170141](https://github.com/SecretDiscorder/CBT_SMANCA/assets/139457966/8bc9408c-93e9-4ef8-9238-ddf979bd50a0)
 ![Screenshot_20230817-170138](https://github.com/SecretDiscorder/CBT_SMANCA/assets/139457966/7d08bf1c-76f5-4974-ac32-251119350ce8)
+
+
 ExamBrowser siap digunakan.
+
+
 #Features SMANCA EXAMBROWSER V5
 1. Akses Menu CBT, Input Url, dan Barcode Harus memiliki Koneksi internet
 2. Pinning Aplikasi ketika login ke website
