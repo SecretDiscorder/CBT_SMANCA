@@ -33,17 +33,22 @@ ExamBrowser siap digunakan.
 5. Menambahkan Perlindungan dengan tingkat keamanan Sedang sampai Tinggi.
 6. Penonaktifan Browser System
 7. anti Browser
-8. safety
-9. mudah di gunakan
-10. Anti Split Screen
-11. Disable ScreenShot
-12. Signature Protect
-13. Anti Reverse Engineering
-14. Mencegah Keluar App. Keluar aplikasi selama 3 kali login otomatis banned
-15. Safety And User Experience to user
-16. Free To User
-17. Add Offline Features HTML Web offline
-18. Disable Chrome And Google Voice
+8. Mencakup Peraturan
+    -------------------------
+   Harus menonaktifkan Browser bawaan, Google Asisten , dan Google agar bisa menggunakan ExamBrowser
+   Tidak Diperbolehkan Menginstall Aplikasi Browser apapun serta mesin pencari pihak ketiga.
+   Kejujuran Hal yang paling Utama
+     ------------------------
+10. mudah di gunakan
+11. Anti Split Screen
+12. Disable ScreenShot
+13. Signature Protect
+14. Anti Reverse Engineering
+15. Mencegah Keluar App. Keluar aplikasi selama 3 kali login otomatis banned
+16. Safety And User Experience to user
+17. Free To User
+18. Add Offline Features HTML Web offline
+19. Disable Chrome And Google Voice
 
 
 
