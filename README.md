@@ -12,7 +12,7 @@ DOWNLOAD Terbaru=
 
 dengan cara sebagai berikut
 
-Untuk Aplikasi Bawaan: pergi ke pengaturan-> Bagian Aplikasi /Management Aplikasi-> Chrome && Asisten Google-> nonaktifkan
+Untuk Aplikasi Bawaan: pergi ke pengaturan-> Bagian Aplikasi /Management Aplikasi-> Chrome && Browser Bawaan-> nonaktifkan
 
 Untuk Aplikasi dari Playstore: Uninstall
 
