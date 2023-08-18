@@ -31,9 +31,10 @@ ExamBrowser siap digunakan.
 3. Mendeteksi Aplikasi Pihak Ketiga Seperti Floating App, Split Screen, Aksesibilitas touch, juga aplikasi yang mengandung kecurangan Cheating.
 4. Mencegah Fitur Pop Up window pada android 12 keatas
 5. Menambahkan Perlindungan dengan tingkat keamanan Sedang sampai Tinggi.
-6. Anti Clone
-7. Anti Hack
-8. Anti Emulator
+6. Penonaktifan Browser System
+7. anti Browser
+8. safety
+9. mudah di gunakan
 10. Anti Split Screen
 11. Disable ScreenShot
 12. Signature Protect
