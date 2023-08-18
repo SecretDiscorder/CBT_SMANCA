@@ -14,7 +14,7 @@ dengan cara sebagai berikut
 
 Untuk Aplikasi Bawaan: pergi ke pengaturan-> Bagian Aplikasi /Management Aplikasi-> Chrome && Asisten Google-> nonaktifkan
 
-Untuk Aplikasi Playstore: Uninstall
+Untuk Aplikasi dari Playstore: Uninstall
 
 
 ![Screenshot_20230817-144024](https://github.com/SecretDiscorder/CBT_SMANCA/assets/139457966/bb8aa313-2a74-4e03-89ad-470c7d0877f6)
