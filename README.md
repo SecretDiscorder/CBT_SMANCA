@@ -7,7 +7,7 @@ DOWNLOAD Terbaru=
 -Setup 
  Install Melalui klik Download <a href="https://github.com/SecretDiscorder/CBT_SMANCA/releases/download/CBT_SMANCAV5/SMANCA.EXAMBRO_V5.apk">Download</a>
  
--Harap Nonaktifkan Chrome , Google, Google Go, Asisten Google, Google Voice serta aplikasi Browser lain(Uninstall)
+-Harap Nonaktifkan Chrome , Google, aplikasi Browser lain(Uninstall)
 
 
 dengan cara sebagai berikut
