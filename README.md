@@ -42,7 +42,7 @@ ExamBrowser siap digunakan.
 7. anti Browser
 8. Mencakup Peraturan
     -------------------------
-   Harus menonaktifkan Browser bawaan, Google Asisten , dan Google agar bisa menggunakan ExamBrowser
+   Harus menonaktifkan Browser bawaan, dan Google agar bisa menggunakan ExamBrowser
    Tidak Diperbolehkan Menginstall Aplikasi Browser apapun serta mesin pencari pihak ketiga.
    Kejujuran Hal yang paling Utama
      ------------------------
