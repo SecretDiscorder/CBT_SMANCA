@@ -5,7 +5,7 @@ DOWNLOAD Terbaru=
 
 
 -Setup 
- Install Melalui klik Download <a href="https://github.com/SecretDiscorder/CBT_SMANCA/releases/download/CBT_SMANCAV5/SMANCA.EXAMBRO_V5.apk">Download</a>
+ Install Melalui klik Download <a href="https://github.com/SecretDiscorder/CBT_SMANCA/releases/download/SMANCA_EXAMBRO/SMANCA.EXAMBRO_V5_FINAL.apk">Download</a>
  
 -Harap Nonaktifkan Chrome , Google, aplikasi Browser lain(Uninstall)
 
